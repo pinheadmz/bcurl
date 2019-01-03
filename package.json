@@ -21,7 +21,7 @@
     "test": "bmocha --reporter spec test/*-test.js"
   },
   "dependencies": {
-    "brq": "~0.1.4",
+    "brq": "pinheadmz/brq#patch-1",
     "bsert": "~0.0.5",
     "bsock": "~0.1.4"
   },
